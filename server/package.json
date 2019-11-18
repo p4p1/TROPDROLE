@@ -1,0 +1,16 @@
+{
+	"name": "WAC_CTF",
+	"version": "1.0.0",
+	"description": "Created a web CTF for my job at the web@cademie",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no tests specified\" && exit 1"
+	},
+	"author": "Leo Smith",
+	"license": "GNU Public License",
+	"dependencies": {
+		"express": "^4.17.1",
+		"body-parser": "^1.19.0",
+		"cookie-parser": "^1.4.0"
+	}
+}
