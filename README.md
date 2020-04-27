@@ -26,6 +26,6 @@ http://[your_ip]:8080/
 
 ## Screenshots:
 
-![Start_page]()
-![challenge_1]()
-![win]()
+![Start_page](https://raw.githubusercontent.com/p4p1/WAC_CTF/master/assets/wac_ctf.png)
+![challenge_1](https://raw.githubusercontent.com/p4p1/WAC_CTF/master/assets/chall_1.png)
+![win](https://raw.githubusercontent.com/p4p1/WAC_CTF/master/assets/win.png)
