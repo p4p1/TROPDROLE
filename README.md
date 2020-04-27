@@ -24,6 +24,10 @@ It is also possible with your local IP to access the challenge from an other mac
 with the link:
 http://[your_ip]:8080/
 
+## Virtual Box:
+you can also setup this challenge with virtualbox using the ova file linked
+in: virtualbox/linktoova.txt
+
 ## Screenshots:
 
 ![Start_page](https://raw.githubusercontent.com/p4p1/WAC_CTF/master/assets/wac_ctf.png)
