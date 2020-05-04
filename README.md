@@ -7,6 +7,14 @@ Created during an internship at:
 Simple capture the flag to learn the basics of Javascript obfuscation and how to
 interact with the Element Inspector.
 
+## Write-up
+Official write-up [here](https://p4p1.github.io/writeups/tropdrole-writeup.html)
+
+## Tryhackme
+This room is available on tryhackme:
+ - Code: tropdrole
+ - Link: [https://tryhackme.com/room/tropdrole](https://tryhackme.com/room/tropdrole)
+
 ## Install:
 
 ### Clone the repository:
