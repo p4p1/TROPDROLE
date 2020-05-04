@@ -16,6 +16,8 @@ This room is available on tryhackme:
  - Code: tropdrole
  - Link: [https://tryhackme.com/room/tropdrole](https://tryhackme.com/room/tropdrole)
 
+![How_To_add](https://raw.githubusercontent.com/p4p1/TROPDROLE/master/assets/thm.png)
+
 ## Install:
 
 ### Clone the repository:
