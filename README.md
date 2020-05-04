@@ -1,4 +1,5 @@
 # TROPDROLE
+![logo](https://p4p1.github.io/writeups/img/tropdrole/icon.png)
 
 Created during an internship at:
 
