@@ -1,7 +1,7 @@
 # TROPDROLE
 ![logo](https://p4p1.github.io/writeups/img/tropdrole/icon.png)
 
-Created during an internship at:
+Made with the help of [Matthieu-CM](https://github.com/Matthieu-CM) created during an internship at:
 
 ![wac_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Web%40cadémie_Logo.png/220px-Web%40cadémie_Logo.png)
 
