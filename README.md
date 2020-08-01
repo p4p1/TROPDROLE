@@ -1,5 +1,5 @@
 # TROPDROLE
-![logo](https://p4p1.github.io/writeups/img/tropdrole/icon.png)
+![logo](https://raw.githubusercontent.com/p4p1/TROPDROLE/master/assets/logo.png)
 
 Made with the help of [Matthieu-CM](https://github.com/Matthieu-CM) created during an internship at:
 
